@@ -1,0 +1,21 @@
+
+:root {
+    --shadowBorderDividerDivider_: inset 0 -1px 0 0 rgba(240,240,240,1);  
+    --shadowDropShadowButtonPrimary: 0 2px 0 0 rgba(0,0,0,0.04);  
+    --shadowDropShadowButtonSecondary: 0 2px 0 0 rgba(0,0,0,0.02);  
+    --shadowDropShadow015: 0 2px 8px 0 rgba(0,0,0,0.15);  
+    --shadowInkTheme3px: inset -3px 0 0 0 rgba(24,144,255,1);  
+    --shadowBorderDividerDivider_: inset 0 1px 0 0 rgba(240,240,240,1);  
+    --shadowBorderDividerDivider_: inset -1px 0 0 0 rgba(240,240,240,1);  
+    --shadowBorderDividerBorder_: inset 1px 0 0 0 rgba(217,217,217,1), inset 0 1px 0 0 rgba(217,217,217,1), inset 0 -1px 0 0 rgba(217,217,217,1);  
+    --shadowBorderDividerBorder_: inset -1px 0 0 0 rgba(217,217,217,1), inset 0 1px 0 0 rgba(217,217,217,1), inset 0 -1px 0 0 rgba(217,217,217,1);  
+    --shadowBorderDividerBorder1px: inset -1px 0 0 0 rgba(240,240,240,1), inset 0 1px 0 0 rgba(240,240,240,1), inset 1px 0 0 0 rgba(240,240,240,1);  
+    --shadowDropShadow0120805: 0 3px 6px -4px rgba(0,0,0,0.12), 0 6px 16px 0 rgba(0,0,0,0.08), 0 9px 28px 8px rgba(0,0,0,0.05);  
+    --shadowDropShadowActive2pxSpread: 0 0 0 2px rgba(24,144,255,0.2);  
+    --shadowBorderDividerDivider-: inset 1px 0 0 0 rgba(240,240,240,1);  
+    --shadowDropShadow1pxSpread: 0 0 0 1px rgba(255,255,255,1);  
+    --shadowBorderDividerOuterBorder1px: 0 0 0 1px rgba(255,255,255,1);  
+    --shadowInkTheme2px: inset 0 2px 0 0 rgba(24,144,255,1);  
+    --shadowDropShadow015Yoffset6: 0 6px 8px 0 rgba(0,0,0,0.15);  
+    --shadowInkTheme2px: inset -2px 0 0 0 rgba(24,144,255,1);  
+}
